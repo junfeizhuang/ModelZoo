@@ -26,21 +26,12 @@ All model train 120 epochs with 64 input size and 128 batch size. The initial le
  Model    | Top-1        | Parameters
  ----     | -----        | ------
 ResNet18  |              |
- ----     | -----        | ------
 ResNet50  |
- ----     | -----        | ------
 ResNet101 |              |
- ----     | -----        | ------
 ResNext18 |              |
- ----     | -----        | ------
 ResNext50 |              |
- ----     | -----        | ------
 ResNext101|              |
- ----     | -----        | ------
 Res2Net18 |              |
- ----     | -----        | ------
 Res2Net50 |              |
- ----     | -----        | ------
 Res2Net101|              |
- ----     | -----        | ------
 EfficientNet|              |
